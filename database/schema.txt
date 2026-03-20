@@ -1,0 +1,25 @@
+Users Table
+-----------
+id
+name
+phone
+city
+platform
+zone
+
+
+Policies Table
+--------------
+id
+user_id
+weekly_premium
+payout
+
+
+Claims Table
+------------
+id
+user_id
+trigger_event
+amount
+status

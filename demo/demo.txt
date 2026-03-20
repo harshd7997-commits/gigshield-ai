@@ -1,0 +1,6 @@
+Phase-1 Prototype Includes:
+- Simple frontend registration UI
+- Basic backend server
+- AI risk calculation placeholder
+- Basic trigger logic (rain > 80mm)
+- No real API integration yet
